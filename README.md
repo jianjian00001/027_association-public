@@ -12,7 +12,7 @@
 
 **视频演示：[https://www.bilibili.com/video/BV1vu411a7MG/](https://www.bilibili.com/video/BV1vu411a7MG/)**
 
-**毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+**毕业设计所有选题地址：[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## SpringBoot  大学生社团管理系统(源代码+数据库)
 
